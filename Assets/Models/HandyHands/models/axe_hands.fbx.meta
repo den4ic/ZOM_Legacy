@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 459380f78cb35164884e453a5c246bb4
+timeCreated: 1518544819
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: //RootNode
+    100006: hand_l
+    100008: hand_left
+    100010: hand_r
+    100012: hand_right
+    100014: index1_l
+    100016: index1_r
+    100018: index2_l
+    100020: index2_r
+    100022: index3_l
+    100024: index3_l_end
+    100026: index3_l_end_end
+    100028: index3_r
+    100030: index3_r_end
+    100032: index3_r_end_end
+    100034: lowerarm1_l
+    100036: lowerarm1_r
+    100038: lowerarm2_l
+    100040: lowerarm2_r
+    100042: lowerarm3_l
+    100044: lowerarm3_r
+    100046: middle1_l
+    100048: middle1_r
+    100050: middle2_l
+    100052: middle2_r
+    100054: middle3_l
+    100056: middle3_l_end
+    100058: middle3_l_end_end
+    100060: middle3_r
+    100062: middle3_r_end
+    100064: middle3_r_end_end
+    100066: pinky1_l
+    100068: pinky1_r
+    100070: pinky2_l
+    100072: pinky2_r
+    100074: pinky3_l
+    100076: pinky3_r
+    100078: pinky4_l
+    100080: pinky4_l_end
+    100082: pinky4_l_end_end
+    100084: pinky4_r
+    100086: pinky4_r_end
+    100088: pinky4_r_end_end
+    100090: ring1_l
+    100092: ring1_r
+    100094: ring2_l
+    100096: ring2_r
+    100098: ring3_l
+    100100: ring3_l_end
+    100102: ring3_l_end_end
+    100104: ring3_r
+    100106: ring3_r_end
+    100108: ring3_r_end_end
+    100110: thumb1_l
+    100112: thumb1_r
+    100114: thumb2_l
+    100116: thumb2_r
+    100118: thumb3_l
+    100120: thumb3_l_end
+    100122: thumb3_l_end_end
+    100124: thumb3_r
+    100126: thumb3_r_end
+    100128: thumb3_r_end_end
+    100130: Tomahawk_Model
+    100132: upperarm_l
+    100134: upperarm_r
+    400000: Armature
+    400002: Armature.001
+    400004: //RootNode
+    400006: hand_l
+    400008: hand_left
+    400010: hand_r
+    400012: hand_right
+    400014: index1_l
+    400016: index1_r
+    400018: index2_l
+    400020: index2_r
+    400022: index3_l
+    400024: index3_l_end
+    400026: index3_l_end_end
+    400028: index3_r
+    400030: index3_r_end
+    400032: index3_r_end_end
+    400034: lowerarm1_l
+    400036: lowerarm1_r
+    400038: lowerarm2_l
+    400040: lowerarm2_r
+    400042: lowerarm3_l
+    400044: lowerarm3_r
+    400046: middle1_l
+    400048: middle1_r
+    400050: middle2_l
+    400052: middle2_r
+    400054: middle3_l
+    400056: middle3_l_end
+    400058: middle3_l_end_end
+    400060: middle3_r
+    400062: middle3_r_end
+    400064: middle3_r_end_end
+    400066: pinky1_l
+    400068: pinky1_r
+    400070: pinky2_l
+    400072: pinky2_r
+    400074: pinky3_l
+    400076: pinky3_r
+    400078: pinky4_l
+    400080: pinky4_l_end
+    400082: pinky4_l_end_end
+    400084: pinky4_r
+    400086: pinky4_r_end
+    400088: pinky4_r_end_end
+    400090: ring1_l
+    400092: ring1_r
+    400094: ring2_l
+    400096: ring2_r
+    400098: ring3_l
+    400100: ring3_l_end
+    400102: ring3_l_end_end
+    400104: ring3_r
+    400106: ring3_r_end
+    400108: ring3_r_end_end
+    400110: thumb1_l
+    400112: thumb1_r
+    400114: thumb2_l
+    400116: thumb2_r
+    400118: thumb3_l
+    400120: thumb3_l_end
+    400122: thumb3_l_end_end
+    400124: thumb3_r
+    400126: thumb3_r_end
+    400128: thumb3_r_end_end
+    400130: Tomahawk_Model
+    400132: upperarm_l
+    400134: upperarm_r
+    2300000: Tomahawk_Model
+    3300000: Tomahawk_Model
+    4300000: Tomahawk_Model
+    4300002: hand_left
+    4300004: hand_right
+    9500000: //RootNode
+    13700000: hand_left
+    13700002: hand_right
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 31f39497f82c1df4d9ccd523c9bd74e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hands1
+    second: {fileID: 2100000, guid: ed691a39bc5767d43ac3b04c49fa9521, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hands1.001
+    second: {fileID: 2100000, guid: ed691a39bc5767d43ac3b04c49fa9521, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

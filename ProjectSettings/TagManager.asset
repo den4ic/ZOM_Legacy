@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Head
+  - LeftHand
+  - RightHand
+  - RightUpper
+  - LeftUpper
+  - RightForeArm
+  - LeftForeArm
+  - RightLeg
+  - LeftLeg
+  - UpperBody
+  - LowerBody
+  - Extra1
+  - Extra2
+  - Extra3
+  - Extra4
+  - Critical
+  - Exploder
+  - RagBody
+  - RagHead
+  - Common
+  - Rare
+  - Mythical
+  - Legendary
+  - Enemy
+  - WeaponCamera
+  - arrow
+  - Wood
+  - ScoreManager
+  - Joystick
+  - Blood
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - CameraIdWeapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Limb
+  - Ragdoll
+  - Enemy
+  - Particle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
